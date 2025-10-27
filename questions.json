@@ -1,0 +1,24 @@
+{
+  "test_name": "Python Interview",
+  "role": "Junior Developer",
+  "date": "2025-10-22T00:00:00Z",
+  "session_timeout": 60,
+  "questions": [
+    {
+      "id": "abbec480-6a20-4671-8769-4a6038b25c55",
+      "agent_question": "Explain garbage collection in python",
+      "user_answer" : "",
+      "timeout": 30,
+      "order": 0,
+      "weight": 0.5
+    },
+    {
+      "id": "c1387a1a-8f3b-4202-a198-8bbbb39264cd",
+      "agent_question": "What is GIL and how does it impacts parallism in python?",
+      "user_answer" : "",
+      "timeout": 30,
+      "order": 1,
+      "weight": 0.5
+    }
+  ]
+}
