@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import HomePage from './components/HomePage.tsx';
-import ChatInterface from './components/ChatInterfacev2.tsx';
+import ChatInterface from './components/ChatInterfacev3.tsx';
 
 function App() {
   const [inChat, setInChat] = useState(false);
